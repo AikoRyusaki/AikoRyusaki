@@ -1,5 +1,5 @@
 ### Hi!<img src="https://media.giphy.com/media/4GsKO3pORVVBjYTjEi/giphy.gif" width="40"/>
- I am a Android Developer from Russia.
+ I am Android Developer from Russia.
  -  I specialize in both frontend and backend development for Android applications. I have knowledge of Java and Kotlin, as well as experience with the Android SDK framework.
  -  In my free time, I continue to deepen my knowledge by exploring the world of Android development.
  -  Additionally, I have an interest in developing computer games and applications using Unity.
